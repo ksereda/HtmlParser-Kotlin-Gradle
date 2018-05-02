@@ -10,8 +10,8 @@ HtmlParser is designed to work with html documents from "BSB Bank".
 
 - Parse html document:
 
- val parser = CustomParser("htmlfile.html", CustomParserType.LOCAL_DOCUMENT)
- val data = parser.parse
+ * val parser = CustomParser("htmlfile.html", CustomParserType.LOCAL_DOCUMENT)
+ * val data = parser.parse
 
 
 ## Input
