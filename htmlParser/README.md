@@ -36,4 +36,4 @@ HtmlParser is designed to work with html documents from "BSB Bank".
 
 ## Getting started:
 1. Read the documentation
-2. Enjoy!
+2. Enjoy !
